@@ -4,7 +4,9 @@
   width: 100%;
   background: #333;
   overflow: hidden;
-  background-size: cover;
+/*  background-size: cover; */
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center center;
   z-index: 1;
 }
